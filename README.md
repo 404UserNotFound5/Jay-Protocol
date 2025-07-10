@@ -1,5 +1,5 @@
 # Jay-Protocol
-
+<p align="center"><img src="https://github.com/404UserNotFound5/Jay-Protocol/blob/main/logo_small.png" alt="Jay Logo"></p>
 
 ## A diagnostic framework to elevate generative AI into a precise, engineering-focused partner
 
