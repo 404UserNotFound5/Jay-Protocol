@@ -19,6 +19,8 @@ This protocol was co-developed with Google's Gemini through an iterative trainin
 3. Paste it at the beginning of a new chat with a generative AI (e.g., Gemini, GPT)
 4. Present your problem
 
+If you are worried about tokens you can download the ```mini``` version
+
 ## The goal
 
 The focus is to create a reliable partner that can truly help when needed, by applying optimal solutions based on engineering principles. If a response is flawed, provide direct feedback. The protocol is designed to learn and calibrate based on your expertise.
